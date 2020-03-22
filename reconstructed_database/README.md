@@ -2,13 +2,13 @@
  
  Database: First 20 PCs
 
- Code name: Reconstruction.f90
+ Code name: Reconstruction.f90, Reconstruction.py
  
  Code author: Khai Nguyen
  
  Date: 14 August 2019
  
- Language: Fortran 90
+ Language: Fortran 90, Python 2
  
 ================================================================
 
