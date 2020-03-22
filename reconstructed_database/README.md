@@ -16,7 +16,7 @@ I. Introduction:
 
 This database is a reconstruction of the BEL profile database using the Principal Component Analysis (PCA). Each BEL profile in the original database is reconstructed using the first 20 principal components (PCs). Each reconstructed profile is a close replica of the original profile but is not identical to it (as it is represented by a final series of PCs). The main advantage of the reconstructed database is that it can be written in a more compact form and is a factor of 100 smaller than the original. Note that, unlike the original database of modeled profiles, the PCA reconstructed database does NOT contain information about the contribution from individual  BELs associated with the primary, secondary mini-disk, or the circumbinary disk, but only contains information about the total, composite BEL profile of the whole system. The database and scripts here are resources accompanying the following manuscripts: 
 
-[1] Khai Nguyen, Tamara Bogdanovic 2016 "Emission Signatures from Sub-parsec Binary Supermassive Black Holes. I. Diagnostic Power of Broad Emission Lines", ApJ, 828, 68 (arXiv:1605.09389)
+[1] Khai Nguyen, Tamara Bogdanovic 2016 "Emission Signatures from Sub-parsec Binary Supermassive Black Holes. I. Diagnostic Power of Broad Emission Lines", ApJ, 828, 68 (arXiv:1605.09389)
 
 [2] Khai Nguyen, Tamara Bogdanovic, Jessie C. Runnoe, Michael Eracleous, Steinn Sigurdsson, and Todd Boroson 2019 "Emission Signatures from Sub-parsec Binary Supermassive Black Holes. II. Effect of Accretion Disk Wind", ApJ, 870, 16 (arXiv:1807.09782)
 
