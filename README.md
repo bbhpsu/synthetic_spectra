@@ -1,6 +1,4 @@
-# synthetic_spectra
-
-The two databases and associated scripts are resources accompanying the following manuscripts: 
+The two databases (original_database and reconstructed_database) and associated scripts are resources accompanying the following manuscripts: 
 
 [1] Khai Nguyen, Tamara Bogdanovic 2016 "Emission Signatures from Sub-parsec Binary Supermassive Black Holes. I. Diagnostic Power of Broad Emission Lines", ApJ, 828, 68 (arXiv:1605.09389)
 
