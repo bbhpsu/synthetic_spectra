@@ -18,7 +18,7 @@ I. Introduction:
 
 This synthetic database and scripts are resources accompanying the following manuscripts: 
 
-[1] Khai Nguyen, Tamara Bogdanovic 2016 "Emission Signatures from Sub-parsec Binary Supermassive Black Holes. I. Diagnostic Power of Broad Emission Lines", ApJ, 828, 68 (arXiv:1605.09389)
+[1] Khai Nguyen, Tamara Bogdanovic 2016 "Emission Signatures from Sub-parsec Binary Supermassive Black Holes. I. Diagnostic Power of Broad Emission Lines", ApJ, 828, 68 (arXiv:1605.09389)
 
 [2] Khai Nguyen, Tamara Bogdanovic, Jessie C. Runnoe, Michael Eracleous, Steinn Sigurdsson, and Todd Boroson 2019 "Emission Signatures from Sub-parsec Binary Supermassive Black Holes. II. Effect of Accretion Disk Wind", ApJ, 870, 16 (arXiv:1807.09782)
 
