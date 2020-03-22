@@ -1,6 +1,10 @@
 ================================================================
  
- Database: First 20 PCs
+ Database: Reconstructed database using the first 20 principal components
+ 
+ Link to the database: https://www.dropbox.com/sh/ww9dsy28i20m6al/AABaR8ztRBGoFvEzPEpclpxma?dl=0
+
+ Database size: ~3.4Gb
 
  Code name: Reconstruction.f90, Reconstruction.py
  
