@@ -1,8 +1,10 @@
-Documentation for the database of broad emission-line (BEL) profiles calculated for sub-parsec binary supermassive black holes.
-
 ================================================================
  
- Database: Broad Emission Line (BEL) Profiles 
+ Database: Database of synthetic broad emission-line (BEL) profiles 
+
+ Link to the database: https://www.dropbox.com/sh/nha9f7oq2b5hcik/AACCEEmURaBLkw9M8iMSPs9Wa?dl=0
+ 
+ Database size: ~305 Gb
 
  Code names: Navigation.f90, Navigation.py
  
